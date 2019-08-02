@@ -633,7 +633,9 @@
       "tip": "The one and only."
     },
     {
-      "hd": "hd/bobaparrot.gif",
-      "name": "Boba Parrot"
+      "gif": "ultraslowparrot.gif",
+      "hd": "hd/ultraslowparrot.gif",
+      "name": "Ultra Slow Parrot",
+      "tip": "Wait for it..."
     }
 ]
